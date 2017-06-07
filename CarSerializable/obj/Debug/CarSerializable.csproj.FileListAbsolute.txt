@@ -1,0 +1,6 @@
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\SerializationProject\CarSerializable\bin\Debug\CarSerializable.exe.config
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\SerializationProject\CarSerializable\bin\Debug\CarSerializable.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\SerializationProject\CarSerializable\bin\Debug\CarSerializable.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\SerializationProject\CarSerializable\obj\Debug\CarSerializable.exe
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\SerializationProject\CarSerializable\obj\Debug\CarSerializable.pdb
+c:\users\larissa_savchenko\documents\visual studio 2013\Projects\SerializationProject\CarSerializable\obj\Debug\CarSerializable.csprojResolveAssemblyReference.cache
